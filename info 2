@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://use.typekit.net/kzj3klk.css">
+    <link rel="icon" type="image/x-icon" href="../bilder/horsie 2.0.png">
+    <script>
+        (function(d) {
+          var config = {
+            kitId: 'yvy6gux',
+            scriptTimeout: 3000,
+            async: true
+          },
+          h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+        })(document);
+     </script>
+     <script defer src="https://use.fontawesome.com/releases/v5.15.4/js/all.js" integrity="sha384-rOA1PnstxnOBLzCLMcre8ybwbTmemjzdNlILg8O7z1lUkLXozs4DHonlDtnE7fpc" crossorigin="anonymous"></script>
+    <title>Info 2</title>
+</head>
+<body class="vin">
+    <h4>Info 2</h4>
+    <div class="flex-container">
+      <img class="inb" src="../bilder/vincent win2 (1).png" alt="">
+    <p2 class="p2">
+        <span>P</span>å samma sätt som i första gamet så fick Vincent lite ont i själen. Att bli schackmattad när båda har exakt lika mycket material på brädet är något som inte många kan uppnå. Dock så hände det i denna situation och trots att Vincent har vunnit över Johan ett dussintal gånger så finns det bara en sak att säga. Vincent blev Losent.
+    </p2>
+     
+    </div>
+    
+   <a href="./flex.html"><p5><i class='fas fa-reply' style='font-size:40px;color:black;margin-top: 70px;'></i></p5></a>
+</body>
+</html>
