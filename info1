@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://use.typekit.net/kzj3klk.css">
+    <link rel="icon" type="image/x-icon" href="../bilder/horsie 2.0.png">
+    <script>
+        (function(d) {
+          var config = {
+            kitId: 'yvy6gux',
+            scriptTimeout: 3000,
+            async: true
+          },
+          h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+        })(document);
+     </script>
+     <script defer src="https://use.fontawesome.com/releases/v5.15.4/js/all.js" integrity="sha384-rOA1PnstxnOBLzCLMcre8ybwbTmemjzdNlILg8O7z1lUkLXozs4DHonlDtnE7fpc" crossorigin="anonymous"></script>
+    <title>Info 1</title>
+</head>
+<body class="vin">
+    <h4>Info 1</h4>
+    <div class="flex-container">
+    <p2 class="p2">
+        <span>S</span>om du kan se så levererade Johan en Schackmatt som ingen annan. Vincent fick svetta, sura och stressa under tiden Johan var lugn som en häst. Vita drottningen slår ut den svarta kungen när hon ställer sig på F1 vilket leder till en schackmatt eftersom löparen inte kan blocka på D1 då kungen står där, samt att vita kungen står på C3 och täcker kungens enda utväg, D2. För att summera denna match så gjordes 67 drag på 64 rutor med inga takebacks vilket göra denna vinst till en så kallad storkross.
+    </p2>
+     <img class="inb" src="../bilder/vincentwin.png" alt="">
+    </div>
+    
+   <a href="./flex.html"><p5><i class='fas fa-reply' style='font-size:40px;color:black;margin-top: 70px;'></i></p5></a>
+</body>
+</html>
